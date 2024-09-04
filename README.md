@@ -1,5 +1,3 @@
-
-
 <div style="color: white; padding: 30px; text-align: center;">
     <h1>Martha Heredia</h1>
 </div>
