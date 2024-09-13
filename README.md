@@ -18,10 +18,10 @@
 
 ## Skills
 - Python
-- Java
+- Swift
 - HTML5
 - JavaScript
-- Swift
+- CSS
 
 ## Currently Learning
 - Java
