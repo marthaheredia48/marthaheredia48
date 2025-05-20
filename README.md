@@ -4,7 +4,7 @@
 
 ## About Me
 - 👩 **She/Her**
-- 🗯️ **18 years old**
+- 🗯️ **19 years old**
 - 🇲🇽 **Mexican**
 - 🎓 **Computer Systems Engineering Student at UDLAP**
 - 💻 **Passionate Coder** with experience in Python, HTML5, CSS3, JavaScript, and Swift
