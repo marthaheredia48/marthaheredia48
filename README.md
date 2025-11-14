@@ -9,8 +9,7 @@
 ---
 
 ## 🌸 About Me  
-I’m a Computer Systems Engineering student, graduating in June 2028, passionate about **iOS development**, **machine learning**, and building technology that creates real-world impact.  
-I love hackathons, AI, data science, and teaching STEM to students across Latin America.
+I’m a Computer Systems Engineering student, graduating in June 2028, passionate about **iOS development**, **machine learning**, and building technology that creates real-world impact. I love hackathons, AI, data science, and teaching STEM to students across Latin America.
 
 
 ---
