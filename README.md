@@ -3,7 +3,7 @@
   iOS Developer · AI & Data Enthusiast · STEM Scholar @ UDLAP  
   <br>
   <a href="https://www.linkedin.com/in/martha-heredia-andrade-568354319/">LinkedIn</a> · 
-  <a href="https://github.com/marthaheredia48">GitHub</a>  
+ <a href="mailto:marthaheredia8444@gmail.com">Email me</a>
 </p>
 
 ---
