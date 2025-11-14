@@ -1,40 +1,97 @@
-<div style="color: white; padding: 30px; text-align: center;">
-    <h1>Martha Heredia</h1>
-</div>
+<h1 align="center">✨ Hi, I'm Martha! ✨</h1>
+<p align="center">
+  iOS Developer · AI & Data Enthusiast · STEM Scholar @ UDLAP  
+  <br>
+  <a href="https://www.linkedin.com/in/martha-heredia">LinkedIn</a> · 
+  <a href="https://github.com/marthaheredia48">GitHub</a>  
+</p>
 
-## About Me
-- 👩 **She/Her**
-- 🗯️ **19 years old**
-- 🇲🇽 **Mexican**
-- 🎓 **Computer Systems Engineering Student at UDLAP**
-- 💻 **Passionate Coder** with experience in Python, HTML5, CSS3, JavaScript, and Swift
-- 🗣️ **Bilingual** in English and Spanish
-- 🎹 **Pianist** and 💃 **Dancer**
+---
 
-## Contact
-- [Email](mailto:marthaheredialinkedin@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/martha-heredia-568354319/)
-- [Instagram](https://www.instagram.com/diversify.tech/)
-
-## Skills
-- Python
-- Swift
-- HTML5
-- JavaScript
-- CSS
-
-## Currently Learning
-- Java
-- German
-- Data Science
-
-## Projects and Experience
-- **Girls Who Code Self-Paced Program (SPP)**: Completed various projects in Data Science, Cybersecurity, and Machine Learning.
-- **Kode With Klossy**: Participated in camps focused on Web Development, Data Science, and Mobile App Development.
-- **NASA App Challenge 2024**: Leading a team to develop innovative solutions for agricultural challenges.
-
-## Future Goals
-- Enhance my skills in emerging technologies and contribute to impactful projects.
-- Continue exploring the intersection of technology and social good.
+## 🌸 About Me  
+I’m a Computer Systems Engineering student, graduating in June 2028, passionate about **iOS development**, **machine learning**, and building technology that creates real-world impact.  
+I love hackathons, AI, data science, and teaching STEM to students across Latin America.
 
 
+---
+
+## 🏆 Highlights & Projects  
+
+### 🥇 Goal Seeker — **1st Place, FemCoding ESG (Enactus + Apple)**  
+📱 *Swift iOS App*  
+- ML-powered itineraries (CoreML + Create ML + INEGI + Google Places API)  
+- 3D maps, geolocation, reviews, EventKit syncing, AirDrop collectibles  
+- Designed for fans exploring World Cup 2026 host cities  
+
+---
+
+### 🌍 UrbanOS — **NASA Space Apps Global Nominee (Top 1,290 / 11,500+)**  
+🗺️ *Next.js + Leaflet + NASA Earth Data*  
+- Sustainable urban planning platform  
+- Geospatial analysis using Python + QGIS  
+- Real-time environmental insights  
+
+---
+
+### 🥈 BankPath — **Swift Changemakers Hackathon (BBVA FinTech MVP)**  
+🏦 *SwiftUI App*  
+- Scalable onboarding flow & document validation simulation  
+- MSME market heatmap and client journey  
+- Designed for 3M+ MSMEs in Mexico  
+
+---
+
+### 🥈 Bee You — **Infomatrix Ibero-American Final (Silver Medal)**  
+🦋 *iPad App (Swift + AR)*  
+- Emotional wellness tools for children  
+- 85% effectiveness · 100% satisfaction  
+- Validated with 18 kids through usability studies  
+
+---
+
+### 🤖 Beach Cleaning Robot — **Mexican Robotics Tournament**  
+🛠 *Computer Vision Lead*  
+- Stereo vision system (OpenCV), triangulation & 3D detection  
+- Integrated avoidance logic with ultrasonic sensors  
+
+---
+
+### 🧪 Other Cool Things  
+- ✋ ASL neural network → improved accuracy **22% → 74%**  
+- ❤️ Heart Disease prediction model → **71%** test accuracy  
+- 🌱 Agri-Kool (NASA 2024) — Swift app + NASA climate/soil data  
+- 👩‍🏫 Instructor for **110+ students** in Swift & iOS development  
+
+---
+
+## 🔧 Tech Stack  
+
+**Core:**  
+`Swift` · `SwiftUI` · `CoreML` · `Python` · `C/C++` · `JavaScript`  
+
+**Tools:**  
+`Xcode` · `QGIS` · `Leaflet` · `Next.js` · `Figma` · `Git` · `Pandas` · `scikit-learn`  
+
+**Languages:**  
+`Spanish (Native)` · `English` · `French` · `German`
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marthaheredia48&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marthaheredia48" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthaheredia48&layout=compact" height="150"/>
+</p>
+
+---
+
+## 🖤 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marthaheredia48&theme=tokyo-night" />
+</p>
+
+<p align="center">✨ Thanks for stopping by! Let’s build something great together ✨</p>
