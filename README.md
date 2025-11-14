@@ -16,7 +16,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 
 ## 🏆 Highlights & Projects  
 
-### 🥇 Goal Seeker — **1st Place, FemCoding ESG (Enactus + Apple)**  
+### 🥇 Goal Seeker — **1st Place, Changemakers Social Challenge Hackathon 2025 powered by Enactus México & Apple (FemCoding ESG)**  
 📱 *Swift iOS App*  
 - ML-powered itineraries (CoreML + Create ML + INEGI + Google Places API)  
 - 3D maps, geolocation, reviews, EventKit syncing, AirDrop collectibles  
@@ -24,7 +24,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 
 ---
 
-### 🌍 UrbanOS — **NASA Space Apps Global Nominee (Top 1,290 / 11,500+)**  
+### 🌍 UrbanOS — **NASA Space Apps Challenge 2025, Global Nominee (Top 1,290 / 11,500+)**  
 🗺️ *Next.js + Leaflet + NASA Earth Data*  
 - Sustainable urban planning platform  
 - Geospatial analysis using Python + QGIS  
@@ -32,7 +32,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 
 ---
 
-### 🥈 BankPath — **Swift Changemakers Hackathon (BBVA FinTech MVP)**  
+### 🥈 BankPath — **2nd Place, Swift Changemakers Hackathon (BBVA FinTech MVP)**  
 🏦 *SwiftUI App*  
 - Scalable onboarding flow & document validation simulation  
 - MSME market heatmap and client journey  
@@ -40,7 +40,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 
 ---
 
-### 🥈 Bee You — **Infomatrix Ibero-American Final (Silver Medal)**  
+### 🥈 Bee You — **Infomatrix Ibero-American Final, Silver Medal**  
 🦋 *iPad App (Swift + AR)*  
 - Emotional wellness tools for children  
 - 85% effectiveness · 100% satisfaction  
@@ -58,7 +58,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 ### 🧪 Other Cool Things  
 - ✋ ASL neural network → improved accuracy **22% → 74%**  
 - ❤️ Heart Disease prediction model → **71%** test accuracy  
-- 🌱 Agri-Kool (NASA 2024) — Swift app + NASA climate/soil data  
+- 🌱 Agri-Kool (NASA Space Apps Challenge 2024) — Swift app + NASA climate/soil data  
 - 👩‍🏫 Instructor for **110+ students** in Swift & iOS development  
 
 ---
@@ -69,7 +69,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 `Swift` · `SwiftUI` · `CoreML` · `Python` · `C/C++` · `Java` · `JavaScript`  
 
 **Tools:**  
-`Xcode` · `QGIS` · `Leaflet` · `Next.js` · `Figma` · `Git` · `Pandas` · `scikit-learn`  
+`Xcode` · `QGIS` · `Leaflet` · `Next.js` · `Figma` · `Git` · `Pandas` · `scikit-learn`  · `Latex`
 
 **Languages:**  
 `Spanish (Native)` · `English` · `French` · `German`
