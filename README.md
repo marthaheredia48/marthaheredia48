@@ -79,19 +79,20 @@ I love hackathons, AI, data science, and teaching STEM to students across Latin 
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marthaheredia48&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marthaheredia48" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marthaheredia48&show_icons=true&bg_color=fff0f5&text_color=ff69b4&icon_color=ff69b4" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marthaheredia48&background=fff0f5&stroke=ff69b4&ring=ffb6c1&fire=ff69b4&currStreakNum=ff69b4" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthaheredia48&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthaheredia48&layout=compact&bg_color=fff0f5&text_color=ff69b4&title_color=ff69b4" height="150"/>
 </p>
 
 ---
 
-## 🖤 Contribution Graph  
+## 💫 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marthaheredia48&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marthaheredia48&theme=react&bg_color=fff0f5&color=ff69b4&line=ff69b4&point=ffb6c1" />
 </p>
 
 <p align="center">✨ Thanks for stopping by! Let’s build something great together ✨</p>
+
