@@ -2,7 +2,7 @@
 <p align="center">
   iOS Developer · AI & Data Enthusiast · STEM Scholar @ UDLAP  
   <br>
-  <a href="[[https://www.linkedin.com/in/martha-heredia]([https://www.linkedin.com/in/martha-heredia-andrade-568354319/)](https://www.linkedin.com/in/martha-heredia-andrade-568354319/)](https://www.linkedin.com/in/martha-heredia-andrade-568354319/)">LinkedIn</a> · 
+  <a href="https://www.linkedin.com/in/martha-heredia-andrade-568354319/">LinkedIn</a> · 
   <a href="https://github.com/marthaheredia48">GitHub</a>  
 </p>
 
