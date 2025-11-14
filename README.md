@@ -66,7 +66,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 ## 🔧 Tech Stack  
 
 **Core:**  
-`Swift` · `SwiftUI` · `CoreML` · `Python` · `C/C++` · `JavaScript`  
+`Swift` · `SwiftUI` · `CoreML` · `Python` · `C/C++` · `Java` · `JavaScript`  
 
 **Tools:**  
 `Xcode` · `QGIS` · `Leaflet` · `Next.js` · `Figma` · `Git` · `Pandas` · `scikit-learn`  
