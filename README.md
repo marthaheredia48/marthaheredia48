@@ -41,7 +41,7 @@ I’m a Computer Systems Engineering student, graduating in June 2028, passionat
 ---
 
 ### 🥈 Bee You — **Infomatrix Ibero-American Final, Silver Medal**  
-🦋 *iPad App (Swift + AR)* — Published on the App Store*  
+🦋 *iPad App (Swift + AR)* — Published on the App Store
 - Emotional wellness tools for children  
 - 85% effectiveness · 100% satisfaction  
 - Validated with 18 kids through usability studies  
