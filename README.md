@@ -38,7 +38,7 @@ Engineering student dedicated to building high-performance iOS applications and 
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=marthaheredia48&theme=rose-pine&hide_border=true" height="150" />
-  <img src="https://github-stats-alpha.vercel.app/api?username=marthaheredia48&show_icons=true&theme=rose_pine" height="150" />
+ 
 </p>
 
 ---
